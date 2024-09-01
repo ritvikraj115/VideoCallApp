@@ -47,7 +47,7 @@ def process_frame():
             Expected Output:
             - Still Image 1: "hello"
 
-            Focus on providing concise one-word responses based on the observed expression in the image, without requiring additional context or descriptions."
+            Focus on providing concise shorter responses based on the observed expression in the image, without requiring additional context or descriptions."
 
             """
 
